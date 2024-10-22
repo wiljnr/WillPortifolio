@@ -1,0 +1,24 @@
+.btn-download-cv {
+    border: 2px solid #ffb6c1;
+    padding: 10px 20px;
+    border-radius: 5px; 
+    text-decoration: none; 
+    color: #ffb6c1;
+    text-align: center;
+    display: inline-block;
+    transition: background-color 0.5s ease;
+}
+
+.btn-download-cv:hover {
+    color: white;
+    background-color: #ffb6c1
+}
+
+.btn-sobre:hover {
+    color: #ffb6c1;
+    transform: scale(1.1);
+}
+
+.btn-sobre {
+    transition: transform 0.3s ease;
+}

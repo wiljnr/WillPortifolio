@@ -1,0 +1,12 @@
+.box {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 42px 0;
+}
+
+.box .title {       
+    margin-bottom: 2px;
+}
